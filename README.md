@@ -1,5 +1,5 @@
 # 项目简介
-基于脚手架搭建的基于Sharding-JDBC的主从复制demo
+基于脚手架搭建的基于Sharding-JDBC的垂直分库demo
 # 项目工程结构如下：
 ```
 ├── api             定义对外的dubbo接口（在线业务调用）
